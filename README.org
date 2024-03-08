@@ -1,0 +1,11 @@
+* ip-management
+
+IP-management is a library for controling background process, it
+defines an common interface that others libraries/systems can use to
+manipulate standard procedures like input/output and signals.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/Sasanidas/ip-management.git |
+| commit  | c7dd1d9                                            |
+| systems | ip-management                                      |
+|---------+----------------------------------------------------|
