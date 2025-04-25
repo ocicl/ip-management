@@ -6,6 +6,6 @@ manipulate standard procedures like input/output and signals.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Sasanidas/ip-management.git |
-| commit  | c7dd1d9                                            |
+| commit  | a365252                                            |
 | systems | ip-management                                      |
 |---------+----------------------------------------------------|
